@@ -1,0 +1,27 @@
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# Go build/test artifacts
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+bin/
+dist/
+
+# Go workspace (if used)
+go.work
+go.work.sum
+
+# Vendor dir (if you vendor)
+vendor/
+
+# IDEs
+.vscode/
+.idea/
